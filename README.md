@@ -1,4 +1,4 @@
-.😎 Hello my name Samuel S e Silva
+ok.😎 Hello my name Samuel S e Silva
 
 📚 Estudante de engenharia de software
 
@@ -16,7 +16,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
 <img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img with="50" height="50" class="devicon-nestjs-original-wordmark"></
+<img with="50" height="50" class="devicon-nestjs-original-wordmark"/>
           
           
           
