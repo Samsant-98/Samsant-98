@@ -22,9 +22,9 @@ src="devicon-nestjs-original-wordmark" />
 <img with="50" height="50" src="devicon-nestjs-original-wordmark"/>
 <img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg />
-<img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> <img> with="50" height="50" 
-class="devicon-tailwindcss-plain-wordmark colored" />
-          
+<img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> <i with="50" height="50"
+class="devicon-tailwindcss-original colored"></i>
+                    
           
           
           
