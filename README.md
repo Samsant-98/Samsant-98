@@ -44,6 +44,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserve
 <img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jUnit/jUnit-original.svg" />
 <img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" />
  <img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
+<img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
+          
+
           
           
           
