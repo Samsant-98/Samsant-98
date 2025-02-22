@@ -2,7 +2,8 @@
 
 📚 Estudante de engenharia de software
 
-💻 Pretendendo ser desenvolvedor FRONT END e FULL STACK
+💻 Pretendendo ser desenvolvedor
+FRONT END e FULL STACK
 
 🖥 Mais focado em: 
 
