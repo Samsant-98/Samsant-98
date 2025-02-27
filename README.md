@@ -59,6 +59,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserve
 <img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitbook/gitbook-original-wordmark.svg" />
 <img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" />
 <img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" />
+<img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
+          
           
 
           
