@@ -63,7 +63,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
 <img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" />
 <img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
 <img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lodash/lodash-original.svg" />
-<img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg"<ahref=“https://www.linkedin.com/in/samuel-santana-192622321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"</a>
+<img with="50" height="50" 
+<ahref=“https://www.linkedin.com/in/samuel-santana-192622321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">< src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
+          
           
           
           
