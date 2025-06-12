@@ -1,4 +1,4 @@
-😎 Hello my name Samuel S e Silva
+😎 Hi my name Samuel S e Silva
 
 📚 Estudante de engenharia de software
 
