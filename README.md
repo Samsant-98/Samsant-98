@@ -4,6 +4,8 @@
 
 💻 Pretendendo ser desenvolvedor FULL STACK
 
+📚Estudos que podem ser adquiridos pela plataforma da DIO
+
 🖥 Mais focado em: 
 
 <img width="50" height="50"
