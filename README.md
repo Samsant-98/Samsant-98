@@ -6,6 +6,8 @@
 
 📚Estudos que podem ser adquiridos pela plataforma da DIO
 
+ótimo pra Freelancer
+
 🖥 Mais focado em: 
 
 <img width="50" height="50"
