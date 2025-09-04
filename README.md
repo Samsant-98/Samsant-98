@@ -6,7 +6,7 @@
 
 📚Estudos que podem ser adquiridos pela plataforma da DIO
 
-👔 otimo pra Freelancer
+👔 Otimo pra Freelancer
 
 🖥 Mais focado em: 
 
