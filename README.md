@@ -4,6 +4,8 @@
 
 💻 Pretendendo ser desenvolvedor FULL STACK
 
+ 👔 Querendo ser Empreendedor
+
 📚Estudos que podem ser adquiridos pela plataforma da DIO
 
 👔 Otimo pra Freelancer
