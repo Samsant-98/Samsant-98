@@ -61,7 +61,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
 <img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
 <img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Junit/Junit-original.svg" />
 <img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" />
- <img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
+<img  with=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opera/opera-original-wordmark.svg" />
+<img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
 <img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
 <img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
 <img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
@@ -75,6 +76,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
 <img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lodash/lodash-original.svg" />
 <imag with="50" height="50" href="https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav"/>
 <img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+<img with=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
+          
           
           
           
